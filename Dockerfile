@@ -15,4 +15,5 @@ RUN apk add --no-cache \
         libc-dev \
         rpm \
         git \
+        tar \
     && gem install --no-document fpm
